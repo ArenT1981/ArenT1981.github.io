@@ -16,11 +16,12 @@
 title: Aren's Page
 email: aren.unix@yandex.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Aren's page description. Nothing much here yet....
+  Aren's corner of the web.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://arent1981.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aren_tyr
 github_username:  ArenT1981
+show_menu: true
 
 # Build settings
 markdown: kramdown
